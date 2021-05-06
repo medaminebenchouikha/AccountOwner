@@ -1,0 +1,15 @@
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\bin\Debug\net5.0\Migrations.deps.json
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\bin\Debug\net5.0\Migrations.dll
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\bin\Debug\net5.0\ref\Migrations.dll
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\bin\Debug\net5.0\Migrations.pdb
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\obj\Debug\net5.0\Migrations.csprojAssemblyReference.cache
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\obj\Debug\net5.0\Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\obj\Debug\net5.0\Migrations.AssemblyInfoInputs.cache
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\obj\Debug\net5.0\Migrations.AssemblyInfo.cs
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\obj\Debug\net5.0\Migrations.csproj.CoreCompileInputs.cache
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\obj\Debug\net5.0\Migrations.dll
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\obj\Debug\net5.0\ref\Migrations.dll
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\obj\Debug\net5.0\Migrations.pdb
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\bin\Debug\net5.0\Entities.dll
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\bin\Debug\net5.0\Entities.pdb
+C:\Users\m.benChouikha\source\repos\AccountOwner\Migrations\obj\Debug\net5.0\Migrations.csproj.CopyComplete

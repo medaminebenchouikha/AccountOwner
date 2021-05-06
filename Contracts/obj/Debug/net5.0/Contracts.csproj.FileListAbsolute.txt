@@ -1,0 +1,15 @@
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\bin\Debug\net5.0\Entities.dll
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\bin\Debug\net5.0\Entities.pdb
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\obj\Debug\net5.0\Contracts.csprojAssemblyReference.cache
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\m.benChouikha\source\repos\AccountOwner\Contracts\obj\Debug\net5.0\Contracts.pdb
